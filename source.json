@@ -1,15 +1,15 @@
 {
     "name":"YGDR-VPM-Listing",
     "id":"com.ygdr.vpm-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://github.com/YerGodDamnRight/YGDR-VPM-Listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"YGDRVCR@gmail.com",
+        "name":"YGDR",
+        "url":"https://github.com/YerGodDamnRight"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"YGDR VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/YerGodDamnRight/YGDR-VPM-Listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
