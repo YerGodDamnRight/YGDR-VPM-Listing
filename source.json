@@ -1,6 +1,6 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"YGDR-VPM-Listing",
+    "id":"com.ygdr.vpm-listing",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
         "email":"developer@vrchat.com",
