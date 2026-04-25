@@ -1,10 +1,10 @@
 {
-    "name":"YGDR-VPM-Listing",
+    "name":"YGDR-VPM",
     "id":"com.ygdr.vpm-listing",
     "url":"https://yergoddamnright.github.io/YGDR-VPM-Listing/index.json",
     "author":{
-        "email":"YGDRVCR@gmail.com",
-        "name":"YGDR",
+        "email":"ygdrvrc@gmail.com",
+        "name":"YerGodDamnRight",
         "url":"https://github.com/YerGodDamnRight"
     },
     "description":"YGDR VRChat packages",
