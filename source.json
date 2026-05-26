@@ -14,7 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "yergoddamnright/ygdr-animator-editor"
+        "yergoddamnright/ygdr-animator-editor",
+        "yergoddamnright/ygdr-mdviewer"
     ],
     "packages":[
     ]
